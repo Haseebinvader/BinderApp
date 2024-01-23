@@ -1,0 +1,7 @@
+export { default as Home } from './Home/Home.jsx'
+export { default as Wishlist } from './Wishlist/Wishlist.jsx'
+export { default as Courses } from './Courses/Courses.jsx'
+export { default as Cart } from './Cart/Cart.jsx'
+export { default as ProfilePage } from './Profile/ProfilePage.jsx'
+export { default as ProfileView } from './Profile/ProfileView.jsx'
+export { default as Login } from './Authentication/Login.jsx'
