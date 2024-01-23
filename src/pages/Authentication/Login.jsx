@@ -22,6 +22,8 @@ const Login = () => {
         <>
             <Box sx={{ height: '83vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                 <div style={{ width: '100%', maxWidth: '600px', padding: '20px', border: '1px solid #ddd', borderRadius: '5px', boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)' }}>
+                <h3>Email: test@gmail.com</h3>
+                <h3>Password: dummy@123</h3>
                     <h1 style={{ marginBottom: 5, fontSize: '20px', fontWeight: 600 }}>Login Page</h1>
                     <form onSubmit={handleSubmit}>
                         <label>
